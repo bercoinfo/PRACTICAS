@@ -1,5 +1,5 @@
 body{
-    background-image:url("fondoTienda.png");
+    background-image:url("AtoPe.png");
 }
 h1{font-family: "Pacifico", cursive;
     color:#D2691E ;
@@ -11,8 +11,9 @@ h2{font-family:"Caveat" ,cursive;
 h3{font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     color:#008B8B ;}
-li{font-family: Arial, Helvetica, sans-serif;}
-
+li{font-family: Arial, Helvetica, sans-serif;
+    color: white}
+p{ color: white;}
 a:link{ color: green;}
 a:visited{color: gray;}
 a:hover{ color: red;
